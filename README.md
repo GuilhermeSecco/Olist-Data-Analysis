@@ -4,6 +4,8 @@
 
 This project focuses on re-establishing a robust database structure within PostgreSQL using the Olist dataset (100k+ records). The goal was to transform raw marketplace data into a structured environment capable of answering complex business questions regarding sales performance, customer geography, and product profitability.
 
+![Execute Overview Dashboard](Images/Executive_Overview.png)
+
 ## 📋 Case Study
 
 This project has a complete Case Study Documented in my Portfolio Website.
