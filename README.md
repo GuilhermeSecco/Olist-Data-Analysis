@@ -4,6 +4,12 @@
 
 This project focuses on re-establishing a robust database structure within PostgreSQL using the Olist dataset (100k+ records). The goal was to transform raw marketplace data into a structured environment capable of answering complex business questions regarding sales performance, customer geography, and product profitability.
 
+## 📋 Case Study
+
+This project has a complete Case Study Documented in my Portfolio Website.
+
+[Access the Case Study by Clicking Here](https://portifolio-guilhermesecco.onrender.com/projects/olist-data-analysis)
+
 ## 🚀 Key Features
 
     Relational Database Design: Data polishing and normalization with Entity-Relationship modeling.
