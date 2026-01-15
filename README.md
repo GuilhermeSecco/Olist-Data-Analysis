@@ -40,4 +40,5 @@ The project was built to address critical business challenges, such as:
 
 ## 📈 Executive Summary
 
-The final analysis reveals a marketplace with high daily volatility but consistent monthly growth. Key insights include a strong concentration of sales in the Brazilian Southeast and top-performing categories like Health & Beauty and Watches & Gifts.
+The final analysis reveals a marketplace with high daily volatility but consistent monthly growth.
+Key insights include a strong concentration of sales in the Brazilian Southeast and top-performing categories like Health & Beauty and Watches & Gifts.
